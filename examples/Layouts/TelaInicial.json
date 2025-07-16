@@ -1,0 +1,66 @@
+{
+    "author": "Luiz F. R. Pimentel.",
+    "github": "https://github.com/KanekiZLF",
+    "canvas_size": {
+        "width": "240",
+        "height": "135"
+    },
+    "elements": [
+        {
+            "type": "text",
+            "name": "text_1",
+            "text": "SD Card OK",
+            "x": 55,
+            "y": 104,
+            "w": 132,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#008040"
+        },
+        {
+            "type": "text",
+            "name": "text_2",
+            "text": "Press algum botao ",
+            "x": 11,
+            "y": 8,
+            "w": 236,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#00ff40",
+            "canvas_id": 208
+        },
+        {
+            "type": "text",
+            "name": "text_4",
+            "text": "para continuar",
+            "x": 29,
+            "y": 28,
+            "w": 184,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#80ff00",
+            "canvas_id": 210
+        },
+        {
+            "type": "text",
+            "name": "text_5",
+            "text": "Voce pode editar isso",
+            "x": 46,
+            "y": 51,
+            "w": 149,
+            "h": 14,
+            "font_size": 1,
+            "color_hex": "#8080ff",
+            "canvas_id": 211
+        },
+        {
+            "type": "image",
+            "name": "img_1_micro-sd.png",
+            "path": "assets/icons/micro-sd.png",
+            "x": 104,
+            "y": 70,
+            "w": 30,
+            "h": 30
+        }
+    ]
+}

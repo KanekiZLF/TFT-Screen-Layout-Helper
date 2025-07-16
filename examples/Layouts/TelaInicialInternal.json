@@ -1,0 +1,65 @@
+{
+    "author": "Luiz F. R. Pimentel.",
+    "github": "https://github.com/KanekiZLF",
+    "canvas_size": {
+        "width": "240",
+        "height": "135"
+    },
+    "elements": [
+        {
+            "type": "text",
+            "name": "text_1",
+            "text": "Memoria Interna OK",
+            "x": 3,
+            "y": 106,
+            "w": 236,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#008040"
+        },
+        {
+            "type": "text",
+            "name": "text_2",
+            "text": "Texto com imagens",
+            "x": 11,
+            "y": 8,
+            "w": 223,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#2211ee",
+            "canvas_id": 78
+        },
+        {
+            "type": "text",
+            "name": "text_3",
+            "text": "Decida oque exibir",
+            "x": 5,
+            "y": 30,
+            "w": 236,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#9f4ab5",
+            "canvas_id": 79
+        },
+        {
+            "type": "text",
+            "name": "text_4",
+            "text": "Voce pode editar isso",
+            "x": 46,
+            "y": 51,
+            "w": 149,
+            "h": 14,
+            "font_size": 1,
+            "color_hex": "#8080ff"
+        },
+        {
+            "type": "image",
+            "name": "img_2_ram.png",
+            "path": "assets/icons/ram.png",
+            "x": 95,
+            "y": 68,
+            "w": 40,
+            "h": 40
+        }
+    ]
+}

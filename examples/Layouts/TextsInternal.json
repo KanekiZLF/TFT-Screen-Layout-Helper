@@ -1,0 +1,154 @@
+{
+    "author": "Luiz F. R. Pimentel.",
+    "github": "https://github.com/KanekiZLF",
+    "canvas_size": {
+        "width": "240",
+        "height": "135"
+    },
+    "elements": [
+        {
+            "type": "text",
+            "name": "text_1",
+            "text": "Memoria Interna OK",
+            "x": 4,
+            "y": 103,
+            "w": 236,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#008040",
+            "canvas_id": 158
+        },
+        {
+            "type": "text",
+            "name": "text_2",
+            "text": "Crie textos!",
+            "x": 9,
+            "y": -1,
+            "w": 230,
+            "h": 36,
+            "font_size": 3,
+            "color_hex": "#8000ff"
+        },
+        {
+            "type": "text",
+            "name": "text_3",
+            "text": "C",
+            "x": 58,
+            "y": 26,
+            "w": 15,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#0000ff"
+        },
+        {
+            "type": "text",
+            "name": "text_4",
+            "text": "O",
+            "x": 73,
+            "y": 28,
+            "w": 15,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#8080ff"
+        },
+        {
+            "type": "text",
+            "name": "text_5",
+            "text": "L",
+            "x": 90,
+            "y": 27,
+            "w": 15,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#FFFFFF"
+        },
+        {
+            "type": "text",
+            "name": "text_6",
+            "text": "O",
+            "x": 106,
+            "y": 29,
+            "w": 15,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#00ff80"
+        },
+        {
+            "type": "text",
+            "name": "text_7",
+            "text": "R",
+            "x": 122,
+            "y": 26,
+            "w": 15,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#8000ff"
+        },
+        {
+            "type": "text",
+            "name": "text_8",
+            "text": "I",
+            "x": 134,
+            "y": 28,
+            "w": 15,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#ff8040"
+        },
+        {
+            "type": "text",
+            "name": "text_9",
+            "text": "D",
+            "x": 147,
+            "y": 29,
+            "w": 15,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#b90746"
+        },
+        {
+            "type": "text",
+            "name": "text_10",
+            "text": "O",
+            "x": 161,
+            "y": 30,
+            "w": 15,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#408080"
+        },
+        {
+            "type": "text",
+            "name": "text_11",
+            "text": "S",
+            "x": 174,
+            "y": 28,
+            "w": 15,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#ff0080"
+        },
+        {
+            "type": "text",
+            "name": "text_12",
+            "text": "Com qualquer tamanho",
+            "x": 56,
+            "y": 51,
+            "w": 142,
+            "h": 14,
+            "font_size": 1,
+            "color_hex": "#00ff80"
+        },
+        {
+            "type": "text",
+            "name": "text_13",
+            "text": "Do it Yourself",
+            "x": 29,
+            "y": 75,
+            "w": 184,
+            "h": 23,
+            "font_size": 2,
+            "color_hex": "#c48ea5"
+        }
+    ]
+}

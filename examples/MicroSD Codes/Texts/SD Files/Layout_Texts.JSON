@@ -1,0 +1,124 @@
+{
+    "author": "Luiz F. R. Pimentel",
+    "github": "https://github.com/KanekiZLF",
+    "images": [],
+    "texts": [
+        {
+            "name": "text_1",
+            "type": "text",
+            "text": "SD Card OK",
+            "x": 58,
+            "y": 101,
+            "font_size": 2,
+            "color_hex": "#008040"
+        },
+        {
+            "name": "text_2",
+            "type": "text",
+            "text": "Crie textos!",
+            "x": 9,
+            "y": -1,
+            "font_size": 3,
+            "color_hex": "#8000ff"
+        },
+        {
+            "name": "text_3",
+            "type": "text",
+            "text": "C",
+            "x": 58,
+            "y": 26,
+            "font_size": 2,
+            "color_hex": "#0000ff"
+        },
+        {
+            "name": "text_4",
+            "type": "text",
+            "text": "O",
+            "x": 73,
+            "y": 28,
+            "font_size": 2,
+            "color_hex": "#8080ff"
+        },
+        {
+            "name": "text_5",
+            "type": "text",
+            "text": "L",
+            "x": 90,
+            "y": 27,
+            "font_size": 2,
+            "color_hex": "#FFFFFF"
+        },
+        {
+            "name": "text_6",
+            "type": "text",
+            "text": "O",
+            "x": 106,
+            "y": 29,
+            "font_size": 2,
+            "color_hex": "#00ff80"
+        },
+        {
+            "name": "text_7",
+            "type": "text",
+            "text": "R",
+            "x": 122,
+            "y": 26,
+            "font_size": 2,
+            "color_hex": "#8000ff"
+        },
+        {
+            "name": "text_8",
+            "type": "text",
+            "text": "I",
+            "x": 134,
+            "y": 28,
+            "font_size": 2,
+            "color_hex": "#ff8040"
+        },
+        {
+            "name": "text_9",
+            "type": "text",
+            "text": "D",
+            "x": 147,
+            "y": 29,
+            "font_size": 2,
+            "color_hex": "#b90746"
+        },
+        {
+            "name": "text_10",
+            "type": "text",
+            "text": "O",
+            "x": 161,
+            "y": 30,
+            "font_size": 2,
+            "color_hex": "#408080"
+        },
+        {
+            "name": "text_11",
+            "type": "text",
+            "text": "S",
+            "x": 174,
+            "y": 28,
+            "font_size": 2,
+            "color_hex": "#ff0080"
+        },
+        {
+            "name": "text_12",
+            "type": "text",
+            "text": "Com qualquer tamanho",
+            "x": 56,
+            "y": 51,
+            "font_size": 1,
+            "color_hex": "#00ff80"
+        },
+        {
+            "name": "text_13",
+            "type": "text",
+            "text": "Do it Yourself",
+            "x": 30,
+            "y": 71,
+            "font_size": 2,
+            "color_hex": "#c48ea5"
+        }
+    ]
+}
