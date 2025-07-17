@@ -28,7 +28,7 @@ Uma ferramenta gráfica desenvolvida para acelerar e simplificar a criação de 
 
 Para um guia visual completo, assista ao vídeo tutorial no YouTube. Clique na imagem abaixo:
 
-[![Assista ao Vídeo Tutorial](https://img.youtube.com/vi/ID_DO_SEU_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DO_SEU_VIDEO)
+[![Assista ao Vídeo Tutorial](https://img.youtube.com/vi/BX8F4t_Myqw/maxresdefault.jpg)](www.youtube.com/watch?v=BX8F4t_Myqw&feature=youtu.be)
 
 ### 1. Configuração Inicial da Tela
 
